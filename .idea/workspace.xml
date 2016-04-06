@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d05a30-301a-4a49-8de9-27524a32144e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/sqlite-jdbc-3.8.11.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_8_11_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoBuildSample.iml" afterPath="$PROJECT_DIR$/AutoBuildSample.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ismartv/autobuild/login/LoginServlet.java" afterPath="$PROJECT_DIR$/src/cn/ismartv/autobuild/login/LoginServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AutoBuildSample.iws" />
@@ -34,8 +28,8 @@
       <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/ismartv/autobuild/login/LoginServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6167024">
-              <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.71948606">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
               <folding>
                 <marker date="1459930775000" expanded="true" signature="1402:1475" placeholder="CREATE TABLE..person..." />
                 <marker date="1459930775000" expanded="true" signature="1530:1550" placeholder="SELECT * FRO..person..." />
@@ -541,7 +535,7 @@
       <updated>1458808878495</updated>
       <workItem from="1458808879880" duration="7356000" />
       <workItem from="1458897021719" duration="2432000" />
-      <workItem from="1459928871228" duration="2138000" />
+      <workItem from="1459928871228" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1458813100236</created>
@@ -549,11 +543,17 @@
       <option name="project" value="LOCAL" />
       <updated>1458813100236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="checkout username&#10;">
+      <created>1459931042913</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1459931042913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11926000" />
+    <option name="totallyTimeSpent" value="11942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -611,7 +611,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="checkout username&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="checkout username&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -701,8 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ismartv/autobuild/login/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6167024">
-          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.71948606">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
           <folding>
             <marker date="1459930775000" expanded="true" signature="1402:1475" placeholder="CREATE TABLE..person..." />
             <marker date="1459930775000" expanded="true" signature="1530:1550" placeholder="SELECT * FRO..person..." />
